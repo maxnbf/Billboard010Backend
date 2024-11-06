@@ -1,7 +1,7 @@
 To deploy the function to firebase:
 
 ```
-firebase deploy ---only functions
+firebase deploy --only functions
 ```
 
 To debug locally with emulator
